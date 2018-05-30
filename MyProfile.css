@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://www.walldevil.com/wallpapers/a73/gradient.jpg");
+}
+#SaifImage{
+    width: 20%;
+    height: 20%; 
+}
+#SaifDescription{
+    text-align: center;
+    font-family:Georgia;
+}
